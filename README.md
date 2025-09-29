@@ -1,2 +1,2 @@
-# BCP1
-Baltaduonis, Cushing-Daniels, and Petkov; 2-Player Bargaining Games
+# The Role of Offer Disclosure in Status-Driven Bargaining
+Rimvydas Baltaduonis, Brendan Cushing-Daniels, and Tsvetomir Petkov (2025)
